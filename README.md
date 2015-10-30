@@ -6,6 +6,8 @@ When you sucsesfully repeat that, Simon add new blink to sequense and you must r
 
 There are analog of this game to compare https://www.mathsisfun.com/games/simon-says-game.html
 
+technologies: python 3.4, pygame, livewires.
+
 Simon_says.py - source code file.
 
 Simonsays.zip - package with standalone Windows executable program (converted using py2exe),
