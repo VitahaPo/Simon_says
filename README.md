@@ -2,9 +2,7 @@
 This is simple game for kids.
 
 Rules: Сomputer (Simon) makes a series of color blinking with sound accompaniment. After that you must repeat this sequence.
-When you sucsesfully repeat that, Simon add new blink to sequense and you must repeat again. Check your memory!)))
-
-There are analog of this game to compare https://www.mathsisfun.com/games/simon-says-game.html
+When you sucsesfully repeat that, Simon add new blink to sequense and you must repeat again. 
 
 technologies: python 3.4, pygame, livewires.
 
